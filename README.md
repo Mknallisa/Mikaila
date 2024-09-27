@@ -1,6 +1,3 @@
-
-
-```markdown
 # Mikaila Lisa's Personal Website
 
 Welcome to **Mikaila Lisa's** personal website repository, hosted on the **Internet Computer (ICP)**. This website serves as a personal space to showcase projects, share thoughts, and create a digital presence on the decentralized web. The project is built using **DFINITY SDK** and leverages the power of the ICP for hosting and security.
@@ -18,14 +15,13 @@ This project is a simple static website built with HTML, CSS, and JavaScript, de
 
 The project consists of the following directories and files:
 
-```
 /src
  └── /mikaila_lisa_website_assets
      ├── index.html         # Main HTML file
      ├── styles.css         # Optional stylesheet (for future customization)
      └── script.js          # Optional JavaScript file (for future interactivity)
 dfx.json                    # DFX configuration file
-```
+
 
 ### Key Files
 
@@ -102,4 +98,3 @@ For any inquiries or questions, you can reach out to Mikaila Lisa via the contac
 ---
 
 **Mikaila Lisa** - Personal Website, Powered by the Internet Computer
-```
